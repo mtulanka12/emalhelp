@@ -1,0 +1,14 @@
+ id="StudentDashboard"
+
+ id="Dashboard"
+ id="ManageStudent"
+ id="ManageTeacher"
+ id="manageSubject"
+ id="managePapers"
+ id="manageQuestion"
+ id="managePassPapers"
+
+ id="adminArea"
+ id="examArea"
+
+<script src="../../plugins/auth/auth.js"></script>
